@@ -17,4 +17,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("DL_ProjectsLogger")
+logger = logging.getLogger("cnnClassifierLogger")
